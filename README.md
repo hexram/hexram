@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[(https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+<a href="https://github.com/psf/black" target="blank"><img align="center" src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Black" height="30" width="40" /></a>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></p>
 <p align="right"> <a href="https://app.daily.dev/hexram"><img src="https://github.com/hexram/hexram/blob/main/devcard.svg" width="400" alt="Héctor Ramírez's Dev Card"/></a></p>
 
